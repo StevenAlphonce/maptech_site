@@ -16,8 +16,8 @@
 
     <!--HEADER TOP-->
 <header class="container-fluid bg-dark py-2">
-    <div class="float-left text-light">Welcome Map technologies repair services </div>
-    <div class="float-right">
+    <div class="float-left text-light sm-6 md-12 xl-12">Welcome Map technologies repair services </div>
+    <div class="float-right sm-6 md-12 xl-12">
         <a href="#" class="fa fa-facebook"></a>
         <a href="#"><span class="fa fa-twitter"></span></a>
         <a href="#"><span class="fa fa-google-plus"></span></a>
