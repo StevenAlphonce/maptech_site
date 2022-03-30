@@ -15,15 +15,23 @@
     <title>Map Technologies | Home</title>
 
     <!--HEADER TOP-->
-<header class="container-fluid bg-dark py-2">
-    <div class="float-left text-light sm-6 md-12 xl-12">Welcome Map technologies repair services </div>
-    <div class="float-right sm-6 md-12 xl-12">
-        <a href="#" class="fa fa-facebook"></a>
-        <a href="#"><span class="fa fa-twitter"></span></a>
-        <a href="#"><span class="fa fa-google-plus"></span></a>
-        <a href="#"><span class="fa fa-pinterest-p"></span></a>
-    </div><br>
+    <header class="container-sm|md|lg|xl text-light" >
+      <!-- R1-->
+      <div class="row py-2" style="background-color: #003d66;">
+      <div class="col-sm-6">
+        <small class="ml-3 text-uppercase">Welcome Map technologies repair services</small>
+      </div>
+      <div class="col-sm-6">
+        <a href="#"><span class="fa fa-twitter float-right mr-4"></span></a>
+        <a href="#"> <span class="fa fa-facebook float-right mr-4"></span> </a>
+      </div>
+    </div>
+    <!--R2-->
+    <div class="row py-4" style="background-color: #004d80;">
+    <p></p>
+  </div>
 </header>
 <!--/HEADER TOP-->
-  </head>
-  <body>
+</div>
+</head>
+<body>
